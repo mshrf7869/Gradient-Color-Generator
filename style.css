@@ -56,3 +56,14 @@ button:hover{
   border-radius: 5px;
   cursor: pointer;
 }
+
+@media (max-width:580px){
+    section{
+        gap: 3rem;
+        margin-top: 33rem;
+    }
+    .copybox{
+        width: 15rem;
+    }
+    
+}
